@@ -1,6 +1,5 @@
 streamlit
-pycaret==3.0.4
 pandas
 numpy
 scikit-learn
-joblib
+pillow
