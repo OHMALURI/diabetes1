@@ -1,4 +1,6 @@
 streamlit
+pycaret==3.0.4
 pandas
-pycaret.classification
-PIL
+numpy
+scikit-learn
+joblib
