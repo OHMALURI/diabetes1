@@ -2,5 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
+pycaret==3.3.0
+matplotlib
+seaborn
 pillow
-pycaret
